@@ -1,0 +1,5 @@
+// 이메일 형식 및 API 사용을 위한 세팅하는 곳
+https://docs.google.com/spreadsheets/d/1Bn4m6iA_Xch1zzhNvo_6CoQWqOAgwwkOWJKC-phHx2Q/copy
+
+//하는 방법이 잘 정리된 주소
+https://velog.io/@qhflrnfl4324/Contact-Me-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-Google-Apps-Mail-%EC%A0%95%EC%A0%81-HTML-Form
