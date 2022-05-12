@@ -1,0 +1,10 @@
+.box-input{
+    margin-bottom: 1rem;
+}
+.btn-send{
+    background-color: rgb(13, 192, 78);
+    border: none;
+    padding: 3px 20px;
+    border-radius: 3px;
+    color: white;
+}
